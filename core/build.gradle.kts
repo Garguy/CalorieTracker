@@ -5,3 +5,6 @@ apply {
 dependencies {
 
 }
+android {
+    namespace = "com.plcoding.core"
+}
